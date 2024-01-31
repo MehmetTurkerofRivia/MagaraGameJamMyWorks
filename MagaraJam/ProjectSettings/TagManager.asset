@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerHealth
+  - Bullet
+  - RocketMissile
+  - FireBullet
+  - Zemin
+  - Coin
+  - Enemy
+  - EnemyHealth
+  - ZombieHealth
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PlayerHealth
+  - Player
+  - EnemyHealth
+  - Bullet
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Road
+    uniqueID: 4185641471
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2423779449
+    locked: 0
+  - name: Move
+    uniqueID: 1056384973
+    locked: 0
